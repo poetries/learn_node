@@ -1,0 +1,16 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "latest"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit",
+    "dev": "node ./app.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
